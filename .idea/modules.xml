@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LambdaMeaven/LambdaMeaven.iml" filepath="$PROJECT_DIR$/LambdaMeaven/LambdaMeaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalDay2/OptionalDay2.iml" filepath="$PROJECT_DIR$/OptionalDay2/OptionalDay2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania_kolekcje_dziedziczenie_Romaniuk/Zadania_kolekcje_dziedziczenie_Romaniuk.iml" filepath="$PROJECT_DIR$/Zadania_kolekcje_dziedziczenie_Romaniuk/Zadania_kolekcje_dziedziczenie_Romaniuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zaj_05_04/Zaj_05_04.iml" filepath="$PROJECT_DIR$/Zaj_05_04/Zaj_05_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlasneTesty/wlasneTesty.iml" filepath="$PROJECT_DIR$/wlasneTesty/wlasneTesty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zaj08_03.iml" filepath="$PROJECT_DIR$/zaj08_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zaj_04_04/zaj_04_04.iml" filepath="$PROJECT_DIR$/zaj_04_04/zaj_04_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zaj_18_04/zaj_18_04.iml" filepath="$PROJECT_DIR$/zaj_18_04/zaj_18_04.iml" />
+    </modules>
+  </component>
+</project>
